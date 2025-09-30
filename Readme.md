@@ -45,10 +45,13 @@ The goal of this project is to provide an easy-to-use and customizable e-learnin
    ```bash
      http://localhost/pintera
    ```
+---
 
 ## Preview
 
 (Add screenshots or demo links here to showcase the LMS features.)
+
+---
 
 ## License
 
