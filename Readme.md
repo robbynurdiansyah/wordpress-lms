@@ -43,7 +43,7 @@ The goal of this project is to provide an easy-to-use and customizable e-learnin
 4. Configure wp-config.php with your database credentials.
 5. Run the project locally:
    ```bash
-     http://localhost/pintera
+     http://localhost/wordpress-lms
    ```
 ---
 
