@@ -36,14 +36,15 @@ The goal of this project is to provide an easy-to-use and customizable e-learnin
 ## ⚡ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pintera.git
+      git clone https://github.com/your-username/pintera.git
+   ```
 2. Set up a local server (XAMPP, Laragon, or Docker).
 3. Import the database (if provided) to MySQL.
 4. Configure wp-config.php with your database credentials.
 5. Run the project locally:
-  ```bash
-  http://localhost/pintera
-  ```
+   ```bash
+     http://localhost/pintera
+   ```
 
 📷 Preview
 
