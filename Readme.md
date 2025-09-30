@@ -49,8 +49,29 @@ The goal of this project is to provide an easy-to-use and customizable e-learnin
 
 ## Preview
 
-(Add screenshots or demo links here to showcase the LMS features.)
+#### Homepage
+![Homepage Preview](screenshoots/Home.png)
 
+#### All Courses
+![Homepage Preview](screenshoots/Courses.png)
+
+#### About Us
+![Homepage Preview](screenshoots/About.png)
+
+#### Contact Us
+![Homepage Preview](screenshoots/Contact.png)
+
+#### Instructors
+![Homepage Preview](screenshoots/Instructors.png)
+
+#### Pricing and FAQ
+![Homepage Preview](screenshoots/Pricing.png)
+
+#### Course Detail
+![Homepage Preview](screenshoots/Course_Detail.png)
+
+#### Course Content
+![Homepage Preview](screenshoots/Course_Content.png)
 ---
 
 ## License
