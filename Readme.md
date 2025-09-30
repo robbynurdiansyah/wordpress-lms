@@ -72,8 +72,11 @@ The goal of this project is to provide an easy-to-use and customizable e-learnin
 
 #### Course Content
 ![Homepage Preview](screenshoots/Course_Content.png)
+
 ---
 
-## License
+## Author
 
-This project is licensed under the MIT License – feel free to use and modify for learning or production purposes.
+Robby Bambang Nurdiansyah
+
+Web Developer | QA Engineer | n8n Automation
